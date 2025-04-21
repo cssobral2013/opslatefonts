@@ -1,7 +1,7 @@
-id=OPfonts
-name=OnePlus Slate Font
-version=v1
-versionCode=1
-author=rajdedhia10
-description=Adds OnePlus Slate Font to your ROM
-minMagisk=17000
+id=OPSlate_font
+name=OnePlus Slate by cssobral2013
+version=1.9
+versionCode=20220828
+omfversion=2023072101
+author=cssobral2013
+description=Magisk font module to replace your device default font module with "OnePlus Slate"
